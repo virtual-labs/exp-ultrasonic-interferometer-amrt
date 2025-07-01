@@ -2,35 +2,35 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The human audible range is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "20Hz - 20KHz",
+        "b": "15KHz - 2MHz",
+        "c": "Above 2MHz",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Human hearing typically ranges from 20Hz to 20KHz.",
+        "b": "Incorrect. 15KHz to 2MHz exceeds typical human hearing.",
+        "c": "Incorrect. Above 2MHz is ultrasonic.",
+        "d": "Incorrect. Option A is the correct range."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Ultrasonic waves have frequency",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Less than human audible range",
+        "b": "In between human audible range",
+        "c": "Greater than the upper human audible range",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. That's infrasonic.",
+        "b": "Incorrect. That would be normal audible sound.",
+        "c": "Correct. Ultrasonic waves are above 20KHz.",
+        "d": "Incorrect. Option C is correct."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
