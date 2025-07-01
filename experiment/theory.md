@@ -49,3 +49,34 @@ Mechanical  method:   In this, ultrasonic frequencies up to 100 KHz are produced
 
   <p>If <em>d</em> is the separation between successive adjacent maxima of anode current, then,</p>
 
+  $$d=\frac{\lambda}{2}$$
+
+  <p>We have, the velocity (<em>v</em>) of a wave is related to its wavelength (λ) by the relation:</p>
+
+$$v = f \times \lambda$$
+where $f$ is the frequency of the wave.
+
+Then,
+
+$$v=\lambda f=2df$$
+
+
+<p>The velocity of ultrasound is determined principally by the compressibility of the material of the medium. For a medium with high compressibility, the velocity will be less.</p>
+
+<p>Adiabatic compressibility of a fluid is a measure of the relative volume change of the fluid as a response to a pressure change. Compressibility is the reciprocal of bulk modulus, and is usually denoted by the Greek letter beta (β).</p>
+
+<p>The adiabatic compressibility of the material of the sample can be calculated using the equation:</p>
+
+$$\beta = \frac{1}{(\rho \times v^2)}$$
+
+<p>where:</p>
+<ul>
+  <li> $\beta$ is the adiabatic compressibility of the medium</li>
+  <li> $\rho$ (rho) is the density of the medium</li>
+  <li> $v$ is the velocity of ultrasound in the medium</li>
+</ul>
+
+
+
+ 
+
