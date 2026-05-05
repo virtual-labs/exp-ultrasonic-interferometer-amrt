@@ -302,7 +302,7 @@ function mainCalculation(scope, side) {
   console.log("velocityOfSound_liquid " + velocityOfSound_liquid);
 
   var distance_mater =
-    velocityOfSound_liquid / (2 * curren_Frequency_Glb * Math.pow(10, 6));
+    velocityOfSound_liquid / (4 * curren_Frequency_Glb * Math.pow(10, 6));
 
   var distance_millimeter = distance_mater * Math.pow(10, 3);
 
