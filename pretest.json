@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The human audible range is",
+      "answers": {
+        "a": "20Hz - 20KHz",
+        "b": "15KHz - 2MHz",
+        "c": "Above 2MHz",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. Human hearing typically ranges from 20Hz to 20KHz.",
+        "b": "Incorrect. 15KHz to 2MHz exceeds typical human hearing.",
+        "c": "Incorrect. Above 2MHz is ultrasonic.",
+        "d": "Incorrect. Option A is the correct range."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ultrasonic waves have frequency",
+      "answers": {
+        "a": "Less than human audible range",
+        "b": "In between human audible range",
+        "c": "Greater than the upper human audible range",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Incorrect. That's infrasonic.",
+        "b": "Incorrect. That would be normal audible sound.",
+        "c": "Correct. Ultrasonic waves are above 20KHz.",
+        "d": "Incorrect. Option C is correct."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The velocity (v) of a wave is related to its wavelength (λ) by the relation",
+      "answers": {
+        "a": "v = fλ",
+        "b": "f = vλ",
+        "c": "v = f/λ",
+        "d": "λ = vf"
+      },
+      "explanations": {
+        "a": "Correct. This is the standard wave equation.",
+        "b": "Incorrect. Rearranged incorrectly.",
+        "c": "Incorrect. Not a valid rearrangement.",
+        "d": "Incorrect. Not the correct relation."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Among the following, which is the unit of adiabatic compressibility?",
+      "answers": {
+        "a": "N/m²",
+        "b": "m²/N",
+        "c": "Kg/Nm²",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Incorrect. This is the unit of pressure or bulk modulus.",
+        "b": "Correct. m²/N is the unit of compressibility.",
+        "c": "Incorrect. Not a valid unit.",
+        "d": "Incorrect. Option B is correct."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Compressibility of a medium is defined as the reciprocal of",
+      "answers": {
+        "a": "Young’s modulus",
+        "b": "Rigidity modulus",
+        "c": "Density",
+        "d": "Bulk modulus"
+      },
+      "explanations": {
+        "a": "Incorrect. Compressibility is not the inverse of Young's modulus.",
+        "b": "Incorrect. Rigidity modulus relates to shear stress.",
+        "c": "Incorrect. Density is unrelated.",
+        "d": "Correct. Compressibility is 1 divided by bulk modulus."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
