@@ -546,6 +546,8 @@ function directiveFunction() {
         scope.cross_section_lbl = _("Show cross section");
         scope.show_graph_lbl = _("Show graph");
         scope.water_lbl = _("Water_one");
+        // resul banner
+        scope.result = _("Result");
         scope.showresult_lbl = _("Show result");
         scope.result_one_lbl = _("Velocity of ultrasonic wave(m/s):");
         scope.result_two_lbl = _("Adiabatic compressibility: ");
