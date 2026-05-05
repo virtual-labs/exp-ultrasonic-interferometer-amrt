@@ -65,7 +65,7 @@ function directiveFunction() {
                 type: createjs.LoadQueue.IMAGE
 			}, {
                 id: "light_On",
-                src: "././images/light_on.svg",
+                src: "././images/light_On.svg",
                 type: createjs.LoadQueue.IMAGE
 			}, {
                 id: "screw_Guage_Top",
